@@ -1,0 +1,25 @@
+body{
+    background-color: red !important;
+}
+img.img-thumbnail{
+    width: 80%;
+    height: 80%;
+}
+
+h3.title{
+    
+    color: wheat;
+}
+a{
+    text-decoration: none !important;
+    text-align: center;
+    color: black !important;
+}
+
+.parrafo{
+    color: wheat;
+}
+i{
+    background-color: black;
+    color: wheat;
+}
